@@ -3,7 +3,12 @@
 
 ## Installation
 ```bash
-$ go install github.com/furtidev/avro.go
+# clone the repository
+$ git clone git@github.com:furtidev/avro.go.git
+# CD into the cloned repository
+$ cd ./avro.go
+# run the following command
+$ go install .
 ```
 
 ## Usage
